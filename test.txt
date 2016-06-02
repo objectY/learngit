@@ -1,0 +1,3 @@
+git is a free software within UNIX
+Don't put all eggs in one basket just as when you choose just one stock 
+and put all hopes on it
